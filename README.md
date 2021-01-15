@@ -4,3 +4,4 @@
 * Sean Alling (Teaching Assistant)
 * Anelise Cho
 * Kevin Phan
+* Ryan Kim
