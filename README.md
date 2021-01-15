@@ -5,3 +5,4 @@
 * Anelise Cho
 * Kevin Phan
 * Ryan Kim
+* Ryan Chan
