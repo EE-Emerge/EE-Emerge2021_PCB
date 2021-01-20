@@ -2,9 +2,10 @@
 
 # Team Members
 * Sean Alling (Teaching Assistant)
+* Anthony Pham (Team Leader)
 * Anelise Cho
 * Kevin Phan
 * Ryan Kim
 * Ryan Chan
 * Joseph Arbuckle
-* Anthony Pham
+
