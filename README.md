@@ -2,7 +2,8 @@
 
 # Team Members
 * Sean Alling (Teaching Assistant)
-* Anthony Pham (Team Leader)
+* Anthony Pham (Co Team Leader)
+* Victoria Liera (Co Team Leader)
 * Anelise Cho
 * Kevin Phan
 * Ryan Kim
