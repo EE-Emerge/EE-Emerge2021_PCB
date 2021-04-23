@@ -6,7 +6,6 @@
 * Victoria Liera (Co Team Leader)
 * Devon Liu (Co Team Leader)
 * Anelise Cho
-* Kevin Phan
 * Ryan Kim
 * Ryan Chan
 * Joseph Arbuckle
